@@ -85,3 +85,21 @@ p {
 .link:hover {
     background-color: dodgerblue;
 }
+html{
+    scroll-behavior: smooth;
+}
+#contact {
+    padding: 50px;
+    text-align: center;
+    font-size: 60px;
+}
+#review {
+    padding: 50px;
+    text-align: center;
+    font-size: 60px;
+}
+#work {
+    padding: 50px;
+    text-align: center;
+    font-size: 60px;
+}
