@@ -103,3 +103,15 @@ html{
     text-align: center;
     font-size: 60px;
 }
+#ins {
+    padding: 50px;
+    text-align: center;
+    font-size: 60px;
+}
+#pic {
+   transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    }
+img:hover {
+  transform: scale(0.9)  ;
+}
